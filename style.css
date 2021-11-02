@@ -50,6 +50,7 @@ width: fit-content;
 margin:auto;
 margin-top:5%;
 border-radius: 20px;
+border-bottom: solid 5px #71EFA3;
 }
 .equal{
     background-color: #54436B;
