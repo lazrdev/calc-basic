@@ -59,9 +59,9 @@ border-bottom: solid 5px #489c69;
     border-bottom: solid 5px #3d2f52;
 }
 .grid-item:active{
-    border-top: solid 5px #71EFA3;
+    border-top: solid 5px #489c69;
     border-bottom: hidden;
-    transition: 0.1s ease;
+    transition: 0.2s ease;
 }
 img{
     padding:0px;
